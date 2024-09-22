@@ -1,4 +1,4 @@
-**Snake game**
+**### Snake Game**
 
 A classic Snake game implemented in Python using the turtle module. The game starts with a slow-moving snake that grows longer as it eats food, speeding up with each meal. The player controls the snake with the W, A, S, D keys to move up, left, down, and right respectively. The objective is to eat the red food and avoid running into the walls or the snake's own body.
 
