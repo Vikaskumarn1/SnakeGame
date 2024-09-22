@@ -49,5 +49,7 @@ To run the game, you need to have Python installed. The game requires the standa
 •	pen: Displays the current score and high score on the screen.
 
 ![Screenshot 2024-09-22 112227](https://github.com/user-attachments/assets/2109c25f-0e01-4cf6-8b55-274452e69565)
+![Screenshot 2024-09-22 112337](https://github.com/user-attachments/assets/7eb557a9-16d7-4a6e-a15f-b12548789dca)
+
 
 
